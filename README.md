@@ -1,4 +1,4 @@
-Practicing React Props cloning Airbng Element
+Practicing React Props cloning Airbnb Element
 
 
 ******************************************
