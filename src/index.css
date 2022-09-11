@@ -1,276 +1,287 @@
 .container {
-position: relative;
-width: 550px;
-height: 853px;
-
-background: #FFFFFF;
-border-radius: 8.95px;
-box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.2);
-}
-
-.navbar {
-position: absolute;
-width: 550px;
-height: 70px;
-left: 0px;
-top: 0px;
-
-background: #FFFFFF;
-box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
-
-}
-
-.airbnblogo {
-position: absolute;
-width: 82.02px;
-height: 25.35px;
-left: 30px;
-top: 22px;
-
-}
-
-.hero-container {
- 
-position: absolute;
-width: 395.91px;
-height: 232px;
-left: 77px;
-top: 96px;
-}
-
-.image1 {
-position:absolute;
-width: 72.31px;
-height: 96.42px;
-
-top:75px;
-
-border-radius: 8.95px;
-
-}
-
-.image2 {
-  position: absolute;
-  width: 73.52px;
-  height: 63.88px;
-  left: 80px;
-  top:13px;
+  position: relative;
+  width: 550px;
+  height: 853px;
   
-  
+  background: #FFFFFF;
   border-radius: 8.95px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.2);
+  }
+  
+  .navbar {
+  position: absolute;
+  width: 550px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
   
   }
   
-.image3 {
-      
-    position: absolute;
-    width: 72.31px;
-    height: 97.02px;
-    left: 80px;
-    top: 84px;
-    border-radius: 8.95px;
-    
-    }
-
-.image4 {
+  .airbnblogo {
   position: absolute;
-width: 72.91px;
-height: 96.42px;
-left: 160px;
-top: 31px;
-
-
-border-radius: 8.95px;
-}
-
-.image5 {
+  width: 82.02px;
+  height: 25.35px;
+  left: 30px;
+  top: 22px;
+  
+  }
+  
+  .hero-container {
+   
   position: absolute;
-width: 72.91px;
-height: 96.42px;
-left: 160px;
-top: 136px;
-
-
-border-radius: 8.95px;
-}
-
-.image6{
-position: absolute;
-width: 72.91px;
-height: 97.02px;
-left: 240px;
-top: 13px;
-
-border-radius: 8.95px;
-}
-.image7 {
-position: absolute;
-width: 72.31px;
-height: 96.42px;
-left: 240px;
-top: 120px;
-
-
-border-radius: 8.95px;
-}
-
-.image8{
+  width: 395.91px;
+  height: 232px;
+  left: 77px;
+  top: 96px;
+  }
+  
+  .image1 {
   position:absolute;
   width: 72.31px;
   height: 96.42px;
   
   top:75px;
-  left:320px;
+  
   border-radius: 8.95px;
-}
-
-.heroheader > h1 {
-position: absolute;
-width: 347px;
-height: 40px;
-right:100px;
-top: 240px;
-
-font-family: 'Poppins', sans-serif;
-font-style: normal;
-font-weight: 600;
-font-size: 36px;
-line-height: 110%;
-/* identical to box height, or 40px */
-
-
-color: #000000;
-}
-
-.heroheader > p {
+  
+  }
+  
+  .image2 {
+    position: absolute;
+    width: 73.52px;
+    height: 63.88px;
+    left: 80px;
+    top:13px;
+    
+    
+    border-radius: 8.95px;
+    
+    }
+    
+  .image3 {
+        
+      position: absolute;
+      width: 72.31px;
+      height: 97.02px;
+      left: 80px;
+      top: 84px;
+      border-radius: 8.95px;
+      
+      }
+  
+  .image4 {
+    position: absolute;
+  width: 72.91px;
+  height: 96.42px;
+  left: 160px;
+  top: 31px;
+  
+  
+  border-radius: 8.95px;
+  }
+  
+  .image5 {
+    position: absolute;
+  width: 72.91px;
+  height: 96.42px;
+  left: 160px;
+  top: 136px;
+  
+  
+  border-radius: 8.95px;
+  }
+  
+  .image6{
   position: absolute;
-width: 320px;
-height: 56px;
-right:125px;
-top: 300px;
-
-font-family: 'Poppins', sans-serif;
-
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 110%;
-/* or 18px */
-
-
-color: #222222;
-}
-
-.card-image {
+  width: 72.91px;
+  height: 97.02px;
+  left: 240px;
+  top: 13px;
+  
+  border-radius: 8.95px;
+  }
+  .image7 {
   position: absolute;
-width: 176px;
-height: 235px;
-
-border-radius: 9px;
-}
-
-.card--stats {
-  display:flex;
-  position:absolute;
-  top:244px;
-  gap:2px;
-  align-content: center;
+  width: 72.31px;
+  height: 96.42px;
+  left: 240px;
+  top: 120px;
+  
+  
+  border-radius: 8.95px;
+  }
+  
+  .image8{
+    position:absolute;
+    width: 72.31px;
+    height: 96.42px;
+    
+    top:75px;
+    left:320px;
+    border-radius: 8.95px;
+  }
+  
+  .heroheader > h1 {
+  position: absolute;
+  width: 347px;
+  height: 40px;
+  right:100px;
+  top: 240px;
+  
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+  /* identical to box height, or 40px */
+  
+  
+  color: #000000;
+  }
+  
+  .heroheader > p {
+    position: absolute;
+  width: 320px;
+  height: 56px;
+  right:125px;
+  top: 300px;
+  
+  font-family: 'Poppins', sans-serif;
+  
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 110%;
+  /* or 18px */
+  
+  
+  color: #222222;
+  }
+  
+  .card-image {
+    position: absolute;
+  width: 176px;
+  height: 235px;
+  
+  border-radius: 9px;
+  }
+  
+  .card--stats {
+    display:flex;
+    position:absolute;
+    top:244px;
+    
+    align-content: center;
+    font-size: 12px;
+  }
+  .name{
+  
+  
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
   font-size: 12px;
-}
-.star {
-
-
-width: 14px;
-height: 14px;
-
-
-
-}
-
-.rating {
-
-width: 18px;
-height: 14px;
-
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 300;
-font-size: 12px;
-line-height: 110%;
-/* identical to box height, or 13px */
-
-
-color: #222222;
-}
-.grey {
-display: flex;
-
-width: 18px;
-height: 14px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 300;
-font-size: 12px;
-line-height: 110%;
-/* identical to box height, or 13px */
-
-
-color: #918E9B;
-}
-
-.service-name{
-  position: absolute;
-width: 175px;
-height: 14px;
-
-top: 266px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 300;
-font-size: 12px;
-line-height: 110%;
-/* identical to box height, or 13px */
-
-
-color: #222222;
-}
-
-.price {
-  position: absolute;
-width: 144px;
-height: 14px;
-
-top: 288px;
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 12px;
-line-height: 110%;
-/* identical to box height, or 13px */
-
-
-color: #222222;
-
-}
-.price > span{
-  font-weight: 400;
-}
-
-.cards-container{
-  height:350px;
-  right:31px;
-  position:absolute;
-  top:480px;
-  left:31px;
-  display:flex;
-  gap:12rem;
-  overflow: scroll;
-  overflow-y: hidden;
-
-}
-
-/*top 480 for picture */
-
+  padding-right:2px;
+  
+  /* identical to box height, or 13px */
+  
+  
+  color:black;
+  }
+  .star {
+  
+  width: 14px;
+  height: 14px;
+  }
+  
+  .rating {
+  
+  width: 18px;
+  height: 14px;
+  padding-right:2px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  
+  /* identical to box height, or 13px */
+  
+  
+  color: #222222;
+  }
+  
+  .grey {
+  display: flex;
+  padding:3px 2px 2px;
+  width: 18px;
+  height: 13px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 110%;
+  /* identical to box height, or 13px */
+  
+  color: #918E9B;
+  }
+  
+  .service-name{
+    position: absolute;
+  width: 175px;
+  height: 14px;
+  
+  top: 266px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 110%;
+  /* identical to box height, or 13px */
+  
+  
+  color:black;
+  }
+  
+  .price {
+    position: absolute;
+  width: 144px;
+  height: 14px;
+  
+  top: 288px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 110%;
+  /* identical to box height, or 13px */
+  
+  
+  color: #222222;
+  
+  }
+  .price > span{
+    font-weight: 400;
+  }
+  
+  .cards-container{
+    height:350px;
+    right:31px;
+    position:absolute;
+    top:480px;
+    left:31px;
+    display:flex;
+    gap:12rem;
+    overflow: scroll;
+    overflow-y: hidden;
+  
+  }
+  
+  /*top 480 for picture */
+  
+  
