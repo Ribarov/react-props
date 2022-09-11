@@ -160,3 +160,117 @@ line-height: 110%;
 
 color: #222222;
 }
+
+.card-image {
+  position: absolute;
+width: 176px;
+height: 235px;
+
+border-radius: 9px;
+}
+
+.card--stats {
+  display:flex;
+  position:absolute;
+  top:244px;
+  gap:2px;
+  align-content: center;
+  font-size: 12px;
+}
+.star {
+
+
+width: 14px;
+height: 14px;
+
+
+
+}
+
+.rating {
+
+width: 18px;
+height: 14px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+
+color: #222222;
+}
+.grey {
+display: flex;
+
+width: 18px;
+height: 14px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+
+color: #918E9B;
+}
+
+.service-name{
+  position: absolute;
+width: 175px;
+height: 14px;
+
+top: 266px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+
+color: #222222;
+}
+
+.price {
+  position: absolute;
+width: 144px;
+height: 14px;
+
+top: 288px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+
+color: #222222;
+
+}
+.price > span{
+  font-weight: 400;
+}
+
+.cards-container{
+  height:350px;
+  right:31px;
+  position:absolute;
+  top:480px;
+  left:31px;
+  display:flex;
+  gap:12rem;
+  overflow: scroll;
+  overflow-y: hidden;
+
+}
+
+/*top 480 for picture */
+
