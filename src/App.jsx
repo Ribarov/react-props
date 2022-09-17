@@ -7,13 +7,7 @@ import data from "./data";
 const App = () => {
     const profilePerson = data.map(item => {
         return <Card 
-                profile={item.profile}
-                name={item.name}
-                rating={item.rating} 
-                age={item.age}
-                country={item.country}
-                service={item.service}
-                price={item.price} 
+                item = {item}
                 />
     })
 

@@ -8,6 +8,8 @@ export default [
                       country:"MKD",
                       service:"Hiking tours near Galicica",
                       price:"30$",
+                      sold:0,
+                      location: "fixed",
     },
     {
         profile:require("./images/ravi.jpg"),
@@ -17,6 +19,8 @@ export default [
                       country:"AUS",
                       service:"Guitar lessons by the beach",
                       price:"23$", 
+                      sold:1,
+                      location: "online",
     },
     {
         profile:require("./images/john.jpg"),  
@@ -26,6 +30,8 @@ export default [
                       country:"UK",
                       service:"Photography lessons",
                       price:"35$",
+                      sold:0,
+                      location: "fixed",
     },
     {
         profile:require("./images/desire.jpg"),
@@ -35,6 +41,8 @@ export default [
                       country:"USA",
                       service:"Grand Canyon tour opp",
                       price:"50$",
+                      sold:1,
+                      location: "fixed",
     }
 
 
